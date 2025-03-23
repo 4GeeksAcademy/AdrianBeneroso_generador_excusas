@@ -1,5 +1,52 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+    background:lightgray
+  
+  
 }
+header{
+    width: 100%;
+    border-bottom: solid 1px;
+    
+}
+.contenedor_principal{
+    text-align: center;
+width: 500px;
+height: 325px;
+margin: auto;
+border: solid 1px;
+background-color: white;
+margin-top: 50px;
+
+}
+.ventana{
+    display: flex;
+}
+
+
+#excuse{
+    font-weight: bold;
+  width: 100%;
+  margin-top: 40px;
+  margin-right: 10px;
+  background-color: white;
+  
+   
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+.btn{
+   
+    margin-bottom: 15px;
+}
+
+button{
+  border-radius: 100px;
+ 
+
+}
+
+
